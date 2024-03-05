@@ -1,0 +1,23 @@
+
+        .A
+        {
+            background-color: #ffa500; height: 500px; width: 500px;
+        }
+        .B
+        {
+            background-color: #09ff00; height: 50%; width: 50%;
+        }
+        .C
+        {
+            color: white; background-color: #ff0000; font-size: 25px; font-family: monospace; font-weight: bold;
+        }
+        .D
+        {
+            width: 50%; height: 50vh; background-color: rgb(0, 200, 255);
+        }
+        .E
+        {
+            width: 75%vw; height: 50%; background-color: rgb(255, 0, 0) ;
+        }
+        
+   
